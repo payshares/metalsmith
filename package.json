@@ -23,7 +23,7 @@
     "has-generators": "^1.0.1",
     "is": "^2.2.0",
     "is-utf8": "~0.2.0",
-    "recursive-readdir": "git+https://github.com/stellar/recursive-readdir.git",
+    "recursive-readdir": "git+https://github.com/jergason/recursive-readdir.git",
     "rimraf": "^2.2.8",
     "stat-mode": "^0.2.0",
     "thunkify": "^2.1.2",
